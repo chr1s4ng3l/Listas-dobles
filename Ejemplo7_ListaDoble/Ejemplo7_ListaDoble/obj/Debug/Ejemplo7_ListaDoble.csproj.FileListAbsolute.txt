@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\Ejemplo7_ListaDoble\Ejemplo7_ListaDoble\bin\Debug\Ejemplo7_ListaDoble.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Ejemplo7_ListaDoble\Ejemplo7_ListaDoble\bin\Debug\Ejemplo7_ListaDoble.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Ejemplo7_ListaDoble\Ejemplo7_ListaDoble\obj\Debug\Ejemplo7_ListaDoble.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Ejemplo7_ListaDoble\Ejemplo7_ListaDoble\obj\Debug\Ejemplo7_ListaDoble.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Ejemplo7_ListaDoble\Ejemplo7_ListaDoble\obj\Debug\Ejemplo7_ListaDoble.pdb
